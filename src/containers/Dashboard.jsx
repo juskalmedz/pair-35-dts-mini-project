@@ -12,7 +12,7 @@ const Dashboard = () => {
         minHeight: "55vh",
       }}
     >
-      Dashboard
+      Home Page
     </div>
   );
 };
